@@ -57,3 +57,9 @@ replace (
     golang.org/x/net v1.2.3 => example.com/fork/net v1.4.5
     golang.org/x/net => example.com/fork/net v1.4.5
 ) 
+
+1. git init
+2. git push
+3. git commit ''
+4. git tag v1.0.0
+5. git push --tags 
