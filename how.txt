@@ -59,7 +59,8 @@ replace (
 ) 
 
 1. git init
-2. git push
-3. git commit ''
-4. git tag v1.0.0
-5. git push --tags 
+2. git add .
+3. git commit -am "fix how_to"
+4. git push
+5. git tag v1.0.0
+6. git push --tags 
